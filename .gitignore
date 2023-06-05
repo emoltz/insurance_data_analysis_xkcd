@@ -1,0 +1,8 @@
+# created by virtualenv automatically
+.vscode
+.idea
+etc
+lib
+share
+*.cfg
+bin
